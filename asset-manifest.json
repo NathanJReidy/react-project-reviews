@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-project-reviews/static/css/main.3b9f73b5.chunk.css",
+    "main.js": "/react-project-reviews/static/js/main.73365415.chunk.js",
+    "main.js.map": "/react-project-reviews/static/js/main.73365415.chunk.js.map",
+    "runtime-main.js": "/react-project-reviews/static/js/runtime-main.3e95cf2a.js",
+    "runtime-main.js.map": "/react-project-reviews/static/js/runtime-main.3e95cf2a.js.map",
+    "static/js/2.7ec6ff38.chunk.js": "/react-project-reviews/static/js/2.7ec6ff38.chunk.js",
+    "static/js/2.7ec6ff38.chunk.js.map": "/react-project-reviews/static/js/2.7ec6ff38.chunk.js.map",
+    "index.html": "/react-project-reviews/index.html",
+    "static/css/main.3b9f73b5.chunk.css.map": "/react-project-reviews/static/css/main.3b9f73b5.chunk.css.map",
+    "static/js/2.7ec6ff38.chunk.js.LICENSE.txt": "/react-project-reviews/static/js/2.7ec6ff38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e95cf2a.js",
+    "static/js/2.7ec6ff38.chunk.js",
+    "static/css/main.3b9f73b5.chunk.css",
+    "static/js/main.73365415.chunk.js"
+  ]
+}
